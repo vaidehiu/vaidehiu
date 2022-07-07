@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Data science projects.
-- 🌱 I’m currently learning RNN.
+- 🔭 I’m currently working on Machine learning  projects.
+- 🌱 I’m currently learning everything and anything needed from stats to algorithms to domains..as I know to solve a data problem I have to be geek of data and SME of domain of the problem 
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask and learn is my moto :)
 - 📫 How to reach me: vaijurao97@gmail.com
