@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=278AF7&background=F8FFB200&width=435&lines=Hi+There!+%F0%9F%91%8BThis+is+Vaidehi!%F0%9F%92%BB%E2%98%95%F0%9F%92%A1%E2%9D%A4)](https://github.com/vaidehiu)
 
 
 - 🔭 I’m currently working on Machine learning  projects.
@@ -26,9 +27,13 @@
     
 <br>
 <img height="27" src="https://img.shields.io/badge/Vaidehi's GitHub Status --pink.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<p>&nbsp;
+<br>
+<a href="https://github.com/vaidehiu"><img src="https://github-readme-stats.vercel.app/api?username=vaidehiu&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HOLA!%20%F0%9F%91%8F&layout=compact" alt="Typing SVG" /></a>
+<br>
+<br>
+<!--<p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaidehiu&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HOLA! 👏&layout=compact" alt="Vaidehi"/>
-</p>
+</p>-->
 <p>&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehiu&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <details align="left">
@@ -40,9 +45,13 @@
 </p>
 </details>
     
-<details>
+<details align="left">
   <summary>Most used languages ❤️ </summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidehiu&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="vaidehiu" /></p>
+  <p align="left">
+    <a href="https://github.com/vaidehiu" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidehiu&title_color=FF69B4&custom_title=Most%20Used%20Languages%20:D%20&layout=compact&theme=highcontrast&langs_count=10"/>
+    </a>
+  </p>
 </details> 
     
 <br>
