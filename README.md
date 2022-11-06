@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&pause=1000&color=278AF7&background=F8FFB200&width=435&lines=Hi+There!+%F0%9F%91%8BThis+is+Vaidehi!%F0%9F%92%BB%E2%98%95%F0%9F%92%A1%E2%9D%A4)](https://github.com/vaidehiu)
 
 
