@@ -8,7 +8,7 @@
 - 💬 Ask and learn is my moto :)
 - 📫 How to reach me: vaijurao97@gmail.com
 - 💭 Quote: Dream big !! Bigger data... Bigger game to play with !! Hurray!!
-- 🥅 2022 Goals: To be extremely successful and make a career transition 
+- 🥅 2023 Goals: To be extremely successful and make a career transition 
 - ⚡ Fun fact: I'm hobyiest writer and poet ->
 [Blog Link](https://urwordsfelt.wordpress.com/author/avani97/)
 
